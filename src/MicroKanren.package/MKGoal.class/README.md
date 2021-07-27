@@ -1,1 +1,0 @@
-An MKGoal is an expression that either succeedes or fails. A successful result is an MKEvaluationResult that contains at least one environment.

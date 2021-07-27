@@ -1,1 +1,0 @@
-A goal that always fails.

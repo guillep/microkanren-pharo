@@ -1,1 +1,0 @@
-An MKEvaluationResult is the outcome of a successful MKGoal.

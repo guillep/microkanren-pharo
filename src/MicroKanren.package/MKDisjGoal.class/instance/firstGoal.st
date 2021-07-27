@@ -1,3 +1,0 @@
-private - accessing
-firstGoal
-	^ firstGoal
